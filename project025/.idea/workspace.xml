@@ -2,7 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3947b091-91ec-41bf-b4be-c3075ce83a70" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project002/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../project002/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project003/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../project003/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project017/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../project017/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project020/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../project020/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project020/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../project020/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project021/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../project021/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project022/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../project022/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project023/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../project023/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project024/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../project024/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project024/.idea/project023.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../project024/.idea/project024.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project024/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../project024/.idea/vcs.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +43,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../go_object/project002" />
   </component>
   <component name="RunManager">
     <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
@@ -63,5 +74,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
